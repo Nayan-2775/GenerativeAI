@@ -1,0 +1,5 @@
+LangChain:
+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
+
+Google Api:
+AIzaSyDjznaHfTTTvfM--m99H46xGu_ArD2pbXQ
